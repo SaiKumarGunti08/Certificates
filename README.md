@@ -1,7 +1,8 @@
 # Certificates
 
-##Pythonfordataanalysis
-![Certificates](PythonforDataanalysis.png)
+
+##PythonfordataAnalysis
+![Certificates](PythonforDataAnalysis.png)
 ##AWS
 ![Certificates](AWS.png)
 ##C++
