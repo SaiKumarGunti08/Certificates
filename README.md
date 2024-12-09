@@ -9,5 +9,5 @@
 ![Certificates](Javascript.png)
 ![Certificates](Networking.png)
 ![Certificates](Python.png)
-![Certificates](Softwaredevelopment.png)
+![Certificates](https://github.com/SaiKumarGunti08/Certificates/blob/main/Software%20development.png)
 ![Certificates](SQL.png)
