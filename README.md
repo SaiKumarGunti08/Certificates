@@ -1,5 +1,9 @@
 # Certificates
 
+##Pythonfordataanalysis
+![Certificates](PythonforDataanalysis.png)
+##AWS
+![Certificates](AWS.png)
 ##C++
 ![Certificates](C++.png)
 ##Python
@@ -22,5 +26,3 @@
 ![Certificates](https://github.com/SaiKumarGunti08/Certificates/blob/main/Software%20development.png)
 ##Networking TCP/IP
 ![Certificates](Networking.png)
-##AWS
-![Certificates](AWS.png)
