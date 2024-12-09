@@ -3,7 +3,7 @@
 
 ![Certificates](Flexbox.png)
 ![Certificates](https://github.com/SaiKumarGunti08/Certificates/blob/main/Bootstrap%20CSS%20Flexbox.png)
-![Certificates](GIThubandCommanline.png)
+![Certificates](https://github.com/SaiKumarGunti08/Certificates/blob/main/GIT%20hub%20and%20Comman%20line.png)
 ![Certificates](HTML,CSS,Bootstrap.png)
 ![Certificates](Javascriptessentials.png)
 ![Certificates](Javascript.png)
